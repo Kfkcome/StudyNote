@@ -1,13 +1,4 @@
 {
-  "obsidian-git:commit-specified-message": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "S"
-    }
-  ],
   "obsidian-git:pull": [
     {
       "modifiers": [
@@ -17,13 +8,13 @@
       "key": "P"
     }
   ],
-  "obsidian-git:push2": [
+  "app:toggle-left-sidebar": [
     {
       "modifiers": [
         "Mod",
         "Shift"
       ],
-      "key": "R"
+      "key": "L"
     }
   ],
   "obsidian-git:list-changed-files": [
@@ -32,7 +23,25 @@
         "Alt",
         "Mod"
       ],
-      "key": "C"
+      "key": "L"
+    }
+  ],
+  "obsidian-git:push2": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "U"
+    }
+  ],
+  "obsidian-git:commit-specified-message": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "S"
     }
   ]
 }
