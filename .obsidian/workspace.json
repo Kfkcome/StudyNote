@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "5bd5d6c02e357d00",
+    "type": "split",
+    "children": [
+      {
+        "id": "da3b6a2b4c37c4a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd220e6261da8ea1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人工智能导论.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7540fc24507b3fce",
+    "type": "split",
+    "children": [
+      {
+        "id": "98b927036a5d1acf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d22683562242486",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c40d84d66942da9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "人工智能导论.md"
+              }
+            }
+          },
+          {
+            "id": "8428d474e3dae615",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "97011c28a9395058",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "242f6b93b40e5b2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4caa775d7ecc8e20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99b730043c4bb2a2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "人工智能导论.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "304a7068389ad366",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "人工智能导论.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3bcce534d279c091",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b36027d26f591478",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "bd220e6261da8ea1",
+  "lastOpenFiles": [
+    "接口技术和微机技术.md",
+    "操作系统.md",
+    "多媒体技术基础.md",
+    "计算机网络.md",
+    "人工智能导论.md",
+    "2023-09-24.md",
+    "Untitled.canvas",
+    "README.md"
+  ]
+}
