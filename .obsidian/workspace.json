@@ -75,13 +75,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 227.5,
-    "collapsed": true
+    "width": 227.5
   },
   "right": {
     "id": "242f6b93b40e5b2e",
@@ -161,13 +159,13 @@
   "active": "5d81885a189bad61",
   "lastOpenFiles": [
     "多媒体技术基础.md",
-    "操作系统.md",
-    "计算机网络.md",
-    "人工智能导论.md",
-    "未命名.canvas",
     "接口技术和微机技术.md",
+    "人工智能导论.md",
+    "README.md",
+    "计算机网络.md",
+    "操作系统.md",
+    "未命名.canvas",
     "2023-09-24.md",
-    "Untitled.canvas",
-    "README.md"
+    "Untitled.canvas"
   ]
 }
