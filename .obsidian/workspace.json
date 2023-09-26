@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "接口技术和微机技术.md",
+                "file": "计算机网络.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "接口技术和微机技术.md"
+                "file": "计算机网络.md"
               }
             }
           },
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5,
-    "collapsed": true
+    "width": 227.5
   },
   "right": {
     "id": "242f6b93b40e5b2e",
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "接口技术和微机技术.md",
+                "file": "计算机网络.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "接口技术和微机技术.md",
+                "file": "计算机网络.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,9 +161,9 @@
     "人工智能导论.md",
     "接口技术和微机技术.md",
     "计算机网络.md",
+    "操作系统.md",
     "多媒体技术基础.md",
     "README.md",
-    "操作系统.md",
     "未命名.canvas",
     "2023-09-24.md",
     "Untitled.canvas"
