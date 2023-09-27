@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c105bb1aaa98b3d0",
+        "id": "deec6f1378ccabbc",
         "type": "tabs",
         "children": [
           {
-            "id": "5d81885a189bad61",
+            "id": "69d3da7fdfa1c1b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人工智能导论.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69321db801d2ed23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "多媒体技术基础.md",
+                "file": "接口技术和微机技术.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人工智能导论.md"
+                "file": "接口技术和微机技术.md"
               }
             }
           },
@@ -109,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人工智能导论.md",
+                "file": "接口技术和微机技术.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人工智能导论.md",
+                "file": "接口技术和微机技术.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +139,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -169,8 +158,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d81885a189bad61",
+  "active": "b36027d26f591478",
   "lastOpenFiles": [
+    "人工智能导论.md",
+    "接口技术和微机技术.md",
+    "attachements/Pasted image 20230927204515.png",
+    "attachements/Pasted image 20230927195109.png",
+    "操作系统.md",
     "多媒体技术基础.md",
     "attachements/Pasted image 20230927112036.png",
     "attachements/Pasted image 20230927111258.png",
@@ -178,17 +172,12 @@
     "attachements/Pasted image 20230927110555.png",
     "attachements/Pasted image 20230927104849.png",
     "attachements/Pasted image 20230927102715.png",
-    "接口技术和微机技术.md",
-    "操作系统.md",
     "计算机网络.md",
-    "人工智能导论.md",
     "README.md",
     "attachements/Pasted image 20230926201716.png",
     "attachements/Pasted image 20230926201452.png",
-    "attachements/Pasted image 20230926201231.png",
     "attachments/Pasted.md",
     "attachments",
-    "attachements/Pasted image 20230926202229.png",
     "attachements",
     "未命名.canvas",
     "2023-09-24.md",
