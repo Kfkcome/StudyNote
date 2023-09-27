@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "人工智能导论.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "接口技术和微机技术.md",
+                "file": "多媒体技术基础.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +61,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "多媒体技术基础.md"
               }
             }
           },
@@ -87,11 +88,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 227.5,
+    "collapsed": true
   },
   "right": {
     "id": "242f6b93b40e5b2e",
@@ -107,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "多媒体技术基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "多媒体技术基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,22 +170,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d81885a189bad61",
+  "active": "69321db801d2ed23",
   "lastOpenFiles": [
-    "attachements/Pasted image 20230926201231.png",
-    "README.md",
-    "attachments/Pasted.md",
-    "计算机网络.md",
+    "attachements/Pasted image 20230927112036.png",
+    "attachements/Pasted image 20230927111258.png",
+    "attachements/Pasted image 20230927111034.png",
+    "attachements/Pasted image 20230927110555.png",
+    "attachements/Pasted image 20230927104849.png",
+    "attachements/Pasted image 20230927102715.png",
     "接口技术和微机技术.md",
-    "attachments",
-    "attachements/Pasted image 20230926201452.png",
-    "attachements/Pasted image 20230926202229.png",
-    "attachements/Pasted image 20230926201951.png",
-    "attachements/Pasted image 20230926201716.png",
-    "attachements/Pasted image 20230926201649.png",
-    "人工智能导论.md",
     "多媒体技术基础.md",
     "操作系统.md",
+    "计算机网络.md",
+    "人工智能导论.md",
+    "README.md",
+    "attachements/Pasted image 20230926201716.png",
+    "attachements/Pasted image 20230926201452.png",
+    "attachements/Pasted image 20230926201231.png",
+    "attachments/Pasted.md",
+    "attachments",
+    "attachements/Pasted image 20230926202229.png",
+    "attachements/Pasted image 20230926201951.png",
     "attachements",
     "未命名.canvas",
     "2023-09-24.md",
