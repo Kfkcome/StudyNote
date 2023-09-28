@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统.md",
+                "file": "计算机网络.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统.md"
+                "file": "计算机网络.md"
               }
             }
           },
@@ -75,12 +75,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 227.5,
-    "collapsed": true
+    "width": 227.5
   },
   "right": {
     "id": "242f6b93b40e5b2e",
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统.md",
+                "file": "计算机网络.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统.md",
+                "file": "计算机网络.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,13 +157,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8d22683562242486",
+  "active": "69d3da7fdfa1c1b1",
   "lastOpenFiles": [
+    "操作系统.md",
     "接口技术和微机技术.md",
     "人工智能导论.md",
     "attachements/Pasted image 20230927204515.png",
     "attachements/Pasted image 20230927195109.png",
-    "操作系统.md",
     "多媒体技术基础.md",
     "attachements/Pasted image 20230927112036.png",
     "attachements/Pasted image 20230927111258.png",
