@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机网络.md",
+                "file": "多媒体技术基础.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络.md"
+                "file": "多媒体技术基础.md"
               }
             }
           },
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 227.5,
+    "collapsed": true
   },
   "right": {
     "id": "242f6b93b40e5b2e",
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络.md",
+                "file": "多媒体技术基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络.md",
+                "file": "多媒体技术基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,9 +160,12 @@
   },
   "active": "69d3da7fdfa1c1b1",
   "lastOpenFiles": [
+    "attachements/Pasted image 20230929111316.png",
+    "attachements/Pasted image 20230929102430.png",
+    "人工智能导论.md",
+    "计算机网络.md",
     "操作系统.md",
     "接口技术和微机技术.md",
-    "人工智能导论.md",
     "attachements/Pasted image 20230927204515.png",
     "attachements/Pasted image 20230927195109.png",
     "多媒体技术基础.md",
@@ -171,10 +175,8 @@
     "attachements/Pasted image 20230927110555.png",
     "attachements/Pasted image 20230927104849.png",
     "attachements/Pasted image 20230927102715.png",
-    "计算机网络.md",
     "README.md",
     "attachements/Pasted image 20230926201716.png",
-    "attachements/Pasted image 20230926201452.png",
     "attachments/Pasted.md",
     "attachments",
     "attachements",
