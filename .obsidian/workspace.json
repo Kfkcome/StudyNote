@@ -75,7 +75,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -156,8 +157,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8d22683562242486",
+  "active": "69d3da7fdfa1c1b1",
   "lastOpenFiles": [
+    "attachements/Pasted image 20230930200028.png",
+    "attachements/Pasted image 20230930195838.png",
+    "attachements/Pasted image 20230930195836.png",
+    "attachements/Pasted image 20230930194859.png",
+    "attachements/Pasted image 20230930194854.png",
     "attachements/Pasted image 20230930151357.png",
     "attachements/Pasted image 20230930151153.png",
     "attachements/Pasted image 20230930151119.png",
@@ -174,11 +180,6 @@
     "attachements/Pasted image 20230929111316.png",
     "attachements/Pasted image 20230929102430.png",
     "attachements/Pasted image 20230927204515.png",
-    "attachements/Pasted image 20230927195109.png",
-    "attachements/Pasted image 20230927112036.png",
-    "attachements/Pasted image 20230927111258.png",
-    "attachements/Pasted image 20230927111034.png",
-    "attachements/Pasted image 20230927110555.png",
     "attachments/Pasted.md",
     "attachments",
     "attachements",
