@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人工智能导论.md",
+                "file": "接口技术和微机技术.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人工智能导论.md"
+                "file": "接口技术和微机技术.md"
               }
             }
           },
@@ -75,8 +75,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人工智能导论.md",
+                "file": "接口技术和微机技术.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人工智能导论.md",
+                "file": "接口技术和微机技术.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,17 +147,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "switcher:打开快速切换": true,
+      "graph:查看关系图谱": true,
+      "canvas:新建白板": true,
+      "daily-notes:打开/创建今天的日记": true,
+      "templates:插入模板": true,
+      "command-palette:打开命令面板": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
   "active": "69d3da7fdfa1c1b1",
   "lastOpenFiles": [
+    "多媒体技术基础.md",
+    "操作系统.md",
+    "计算机网络.md",
+    "接口技术和微机技术.md",
+    "人工智能导论.md",
+    "2023-10-01.md",
+    "2023-10-02.md",
     "attachements/Pasted image 20230930200028.png",
     "attachements/Pasted image 20230930195838.png",
     "attachements/Pasted image 20230930195836.png",
@@ -168,18 +174,12 @@
     "attachements/Pasted image 20230930151153.png",
     "attachements/Pasted image 20230930151119.png",
     "README.md",
-    "接口技术和微机技术.md",
-    "人工智能导论.md",
-    "计算机网络.md",
     "未命名.canvas",
     "2023-09-30.md",
     "未命名.md",
     "未命名",
-    "操作系统.md",
-    "多媒体技术基础.md",
     "attachements/Pasted image 20230929111316.png",
     "attachements/Pasted image 20230929102430.png",
-    "attachements/Pasted image 20230927204515.png",
     "attachments/Pasted.md",
     "attachments",
     "attachements",
