@@ -75,7 +75,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -137,8 +138,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -158,11 +158,11 @@
   },
   "active": "69d3da7fdfa1c1b1",
   "lastOpenFiles": [
-    "多媒体技术基础.md",
-    "操作系统.md",
+    "人工智能导论.md",
     "计算机网络.md",
     "接口技术和微机技术.md",
-    "人工智能导论.md",
+    "多媒体技术基础.md",
+    "操作系统.md",
     "2023-10-01.md",
     "2023-10-02.md",
     "attachements/Pasted image 20230930200028.png",
