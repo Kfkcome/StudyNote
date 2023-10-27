@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "接口技术和微机技术.md",
+                "file": "人工智能导论.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "a61cb26d828820e7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
               }
             }
           }
@@ -58,7 +48,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "接口技术和微机技术.md"
+                "file": "人工智能导论.md"
               }
             }
           },
@@ -105,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "接口技术和微机技术.md",
+                "file": "人工智能导论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "接口技术和微机技术.md",
+                "file": "人工智能导论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,22 +158,21 @@
   },
   "active": "630a2c91907d1ce5",
   "lastOpenFiles": [
+    "多媒体技术基础.md",
+    "人工智能导论.md",
+    "attachements/Pasted image 20231026203406.png",
+    "attachements/Pasted image 20231025194945.png",
+    "attachements/Pasted image 20231025194259.png",
+    "attachements/Pasted image 20231025194252.png",
+    "接口技术和微机技术.md",
     "attachements/Pasted image 20231024084408.png",
     "attachements/Pasted image 20231024082951.png",
     "attachements/Pasted image 20231024082944.png",
     "attachements/Pasted image 20231023154100.png",
     "attachements/Pasted image 20231023153853.png",
     "attachements/Pasted image 20231018153414.png",
-    "attachements/Pasted image 20231018085443.png",
-    "attachements/Pasted image 20231018085442.png",
-    "attachements/Pasted image 20231018084150.png",
-    "attachements/Pasted image 20231013103450.png",
-    "attachements/Pasted image 20231011155600.png",
-    "多媒体技术基础.md",
     "操作系统.md",
     "计算机网络.md",
-    "接口技术和微机技术.md",
-    "人工智能导论.md",
     "README.md",
     "2023-10-01.md",
     "2023-10-02.md",
