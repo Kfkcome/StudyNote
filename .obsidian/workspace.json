@@ -58,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "GM",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,8 +75,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -154,33 +153,41 @@
       "daily-notes:打开/创建今天的日记": true,
       "templates:插入模板": true,
       "command-palette:打开命令面板": true,
-      "table-editor-obsidian:Advanced Tables Toolbar": true
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "630a2c91907d1ce5",
   "lastOpenFiles": [
     "多媒体技术基础.md",
+    "人工智能导论.md",
     "计算机网络.md",
     "接口技术和微机技术.md",
     "操作系统.md",
-    "人工智能导论.md",
-    "attachements/Pasted image 20231101092547.png",
-    "attachements/Pasted image 20231101092041.png",
-    "attachements/Pasted image 20231101091925.png",
-    "attachements/Pasted image 20231101091516.png",
-    "attachements/Pasted image 20231101091325.png",
-    "attachements/Pasted image 20231101083653.png",
-    "attachements/Pasted image 20231101081437.png",
-    "attachements/Pasted image 20231101081305.png",
     "README.md",
+    "数学建模1统计.md",
+    "数学建模3.md",
+    "数学建模4ML.md",
+    "数学建模5回归.md",
+    "MCM优秀论文学习.md",
+    "数学建模2智能搜索.md",
+    "数学建模0画图.md",
+    "数学建模6评价.md",
+    "未命名",
     "attachements/Pasted image 20231026203406.png",
     "attachements/Pasted image 20231025194945.png",
+    "attachements/Pasted image 20231025194259.png",
+    "attachements/Pasted image 20231025194252.png",
+    "attachements/Pasted image 20231024084408.png",
+    "attachements/Pasted image 20231024082951.png",
+    "attachements/Pasted image 20231024082944.png",
+    "attachements/Pasted image 20231023154100.png",
+    "attachements/Pasted image 20231023153853.png",
+    "attachements/Pasted image 20231018153414.png",
     "2023-10-01.md",
     "2023-10-02.md",
     "未命名.canvas",
     "2023-09-30.md",
     "未命名.md",
-    "未命名",
     "attachments/Pasted.md",
     "attachments",
     "attachements",
