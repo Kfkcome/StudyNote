@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人工智能考试重点.md",
+                "file": "人工智能导论.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人工智能考试重点.md"
+                "file": "人工智能导论.md"
               }
             }
           },
@@ -75,7 +75,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人工智能考试重点.md",
+                "file": "人工智能导论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人工智能考试重点.md",
+                "file": "人工智能导论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,9 +159,10 @@
   },
   "active": "267e38586b0a2b8c",
   "lastOpenFiles": [
-    "attachements/Pasted image 20231119153238.png",
-    "人工智能导论.md",
     "人工智能考试重点.md",
+    "人工智能导论.md",
+    "接口技术和微机技术.md",
+    "attachements/Pasted image 20231119153238.png",
     "attachements/Pasted image 20231119100325.png",
     "attachements/Pasted image 20231118170021.png",
     "attachements/Pasted image 20231118165558.png",
@@ -170,8 +172,6 @@
     "attachements/Pasted image 20231118154120.png",
     "attachements/Pasted image 20231118145759.png",
     "attachements/Pasted image 20231118145754.png",
-    "attachements/Pasted image 20231118145743.png",
-    "接口技术和微机技术.md",
     "未命名.md",
     "计算机网络.md",
     "多媒体技术基础.md",
