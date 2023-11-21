@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "接口技术和微机技术.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13c7b468b50f5ea2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人工智能考试重点.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "60ac4eb2699dccb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人工智能知识点——背.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a6dce3b973fe9b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "人工智能导论.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人工智能导论.md"
+                "file": "人工智能知识点——背.md"
               }
             }
           },
@@ -96,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人工智能导论.md",
+                "file": "人工智能知识点——背.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人工智能导论.md",
+                "file": "人工智能知识点——背.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,11 +194,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "267e38586b0a2b8c",
+  "active": "60ac4eb2699dccb8",
   "lastOpenFiles": [
-    "人工智能考试重点.md",
     "人工智能导论.md",
+    "人工智能知识点——背.md",
+    "人工智能考试重点.md",
     "接口技术和微机技术.md",
+    "未命名",
+    "操作系统.md",
+    "多媒体技术基础.md",
+    "计算机网络.md",
     "attachements/Pasted image 20231119153238.png",
     "attachements/Pasted image 20231119100325.png",
     "attachements/Pasted image 20231118170021.png",
@@ -172,10 +214,6 @@
     "attachements/Pasted image 20231118154120.png",
     "attachements/Pasted image 20231118145759.png",
     "attachements/Pasted image 20231118145754.png",
-    "未命名.md",
-    "计算机网络.md",
-    "多媒体技术基础.md",
-    "操作系统.md",
     "README.md",
     "数学建模1统计.md",
     "数学建模3.md",
@@ -185,7 +223,6 @@
     "数学建模2智能搜索.md",
     "数学建模0画图.md",
     "数学建模6评价.md",
-    "未命名",
     "2023-10-01.md",
     "2023-10-02.md",
     "未命名.canvas",
