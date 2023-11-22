@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "267e38586b0a2b8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "接口技术和微机技术.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13c7b468b50f5ea2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人工智能考试重点.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "60ac4eb2699dccb8",
             "type": "leaf",
             "state": {
@@ -44,19 +20,18 @@
             }
           },
           {
-            "id": "6a6dce3b973fe9b1",
+            "id": "5109fb116d696948",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人工智能导论.md",
+                "file": "接口技术和微机技术.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,25 +171,25 @@
   },
   "active": "60ac4eb2699dccb8",
   "lastOpenFiles": [
-    "人工智能导论.md",
-    "人工智能知识点——背.md",
-    "人工智能考试重点.md",
     "接口技术和微机技术.md",
+    "attachements/Pasted image 20231122170918.png",
+    "attachements/Pasted image 20231122170403.png",
+    "attachements/Pasted image 20231122170331.png",
+    "attachements/Pasted image 20231122170046.png",
+    "attachements/Pasted image 20231122165004.png",
+    "attachements/Pasted image 20231122164941.png",
+    "attachements/Pasted image 20231122155949.png",
+    "attachements/Pasted image 20231122154037.png",
+    "attachements/Pasted image 20231122154036.png",
+    "attachements/Pasted image 20231122153625.png",
+    "人工智能知识点——背.md",
+    "README.md",
+    "人工智能考试重点.md",
+    "人工智能导论.md",
     "未命名",
     "操作系统.md",
     "多媒体技术基础.md",
     "计算机网络.md",
-    "attachements/Pasted image 20231119153238.png",
-    "attachements/Pasted image 20231119100325.png",
-    "attachements/Pasted image 20231118170021.png",
-    "attachements/Pasted image 20231118165558.png",
-    "attachements/Pasted image 20231118155023.png",
-    "attachements/Pasted image 20231118154136.png",
-    "attachements/Pasted image 20231118154121.png",
-    "attachements/Pasted image 20231118154120.png",
-    "attachements/Pasted image 20231118145759.png",
-    "attachements/Pasted image 20231118145754.png",
-    "README.md",
     "数学建模1统计.md",
     "数学建模3.md",
     "数学建模4ML.md",
