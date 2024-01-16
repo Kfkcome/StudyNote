@@ -6,5 +6,11 @@
   "alwaysUpdateLinks": true,
   "newLinkFormat": "relative",
   "showInlineTitle": false,
-  "focusNewTab": true
+  "focusNewTab": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
